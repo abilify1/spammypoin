@@ -1,5 +1,5 @@
-# spammypoin
-Script spam sms MyPoin.ID
+# Script SpamSms MyPoin 
+CARA PENGGUNAAN:
 $ pkg update 
 $ cd spammypoin
 $ pip install requests bs4 colorama
